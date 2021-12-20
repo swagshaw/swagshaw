@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋:technologist::student:
 
 <!--
 **swagshaw/swagshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- :satisfied: I'm Yang Xiao(肖扬)/Jan.
+-  I'm :cn:
+-  🌱 I’m currently learning Master of Artificial Intelligence at Nanyang Technological University in SG.
+-  :construction: I'm doing some interesting research with the best team about MLSys.
+-  :school: I'm in NTU Speech and Language lab for my master thesis under Professor Eng Siong Chng's supervise :airplane:
+-  📫 How to reach me:[[Email]](swagshaw1998@gmail.com),[[LinkedIn]](https://www.linkedin.com/in/yang-xiao-swag/)
