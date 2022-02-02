@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 -->
-- :satisfied: I'm Yang Xiao(肖扬) or you can call me Jan (which is same pronunciation as Yang). 
+- :satisfied: I'm Yang Xiao(肖扬) or you can call me Shaw (which is same pronunciation as Xiao). 
 -  I'm CN.
 -  🌱 I’m currently learning Master of Artificial Intelligence at Nanyang Technological University in SG.
 -  :construction: I'm doing some interesting research with the best team about MLSys.
