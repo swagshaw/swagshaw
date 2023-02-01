@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <!--
 [![Shaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=swagshaw&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 -->
-Welcome to my GitHub. I'm Yang Xiao(肖扬) or you can call me Jan (which is same pronunciation as Yang). I am currently learning Master of Artificial Intelligence at [Nanyang Technological University](https://www.ntu.edu.sg/). My research lies at building efficient, robust, data-centric machine learning system. At this moment, I mainly work in the data-centric speech system that are continual, real-time and efficient.
+Welcome to my GitHub. I'm Yang Xiao(肖扬) or you can call me Jan (which is same pronunciation as Yang). I research speech and audio for the [Fortemedia](https://www.fortemedia.com/). Before that I graduated as the Master of Artificial Intelligence at [Nanyang Technological University](https://www.ntu.edu.sg/). My research lies at building efficient, robust, data-centric machine learning system. At this moment, I mainly work in the data-centric speech system that are continual, real-time and efficient.
 -  📫 How to reach me: [[Email]](swagshaw1998@gmail.com), [[LinkedIn]](https://www.linkedin.com/in/yang-xiao-swag/), [[Homepage]](https://swagshaw.github.io/).
